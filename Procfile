@@ -1,0 +1,1 @@
+web: voila --no-browser --port $PORT --enable_nbextensions=True --Voila.ip=0.0.0.0 databrigade_nb/databrigade.ipynb
